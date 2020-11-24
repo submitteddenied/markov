@@ -1,0 +1,19 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "modulePaths": [
+      "<rootDir>/src"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
